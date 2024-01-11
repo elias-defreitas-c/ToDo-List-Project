@@ -10,7 +10,7 @@ export const TodoPage = ()=>{
             if (response.ok) {
                 return response.json()
             }
-        }).then(data => console.log(data))
+        })
     },[])
 
     return(
