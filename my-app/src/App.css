@@ -1,3 +1,17 @@
+*{
+  list-style-type: none;
+}
+.noUnderline {
+  text-decoration: none;
+  color: black;
+}
+.noUnderline:hover {
+   color: darkgray;
+ }
+
+
+
+
 .App {
   text-align: center;
 }
