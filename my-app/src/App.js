@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './images/logo.svg';
 import './App.css';
 import { TodoPage } from "./Pages/TodoPage";
 import { Show } from "./Pages/Show";
