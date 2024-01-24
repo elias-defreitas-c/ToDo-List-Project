@@ -49,6 +49,7 @@ def delete(id):
 
     return {'204': 'Deleted successfully'}
 
+
 if __name__ == "__main__":
     with app.app_context():
         # Create the database tables
